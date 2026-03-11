@@ -1,9 +1,7 @@
 # Chicken Disease Classification using CNN
 
 
-Chicken diseases pose a serious challenge to the poultry industry, as they can spread rapidly and significantly impact animal health and productivity. Traditional disease identification methods often rely on manual inspection, which can be time-consuming and prone to error.
 
-This project addresses the problem by using image-based disease detection, where visual patterns present in chicken fecal samples are analyzed using deep learning. By automating the detection process, the system helps in identifying potential diseases at an early stage, enabling faster decision-making and improved disease management.
 
 
 ---
